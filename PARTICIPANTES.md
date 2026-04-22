@@ -1,5 +1,4 @@
 # Participantes de EDA-II 2026
-
-* sfweber
-* Lautaro-prog392
-
+- sfweber
+- LichaSDev - Lisandro Sanchez
+- Lautaro-prog392
